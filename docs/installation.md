@@ -54,7 +54,7 @@ Mit `echo $env:CUDA_HOME` bzw. `echo $env:CUDA_HOME` prüfen, ob die Pfade korre
 
 **Manueller Check:**
 Unter _Systemumgebungsvariablen bearbeiten_ -> _Umgebungsvariablen_ sicherstellen, dass unter den Systemvariablen alle Einträge mit `v13.2` gelöscht und die `v12.8`-Einträge vorhanden sind.
-[Systemumgebungsvariablen](/docs/Systemvariablen.png)
+![Systemumgebungsvariablen](/docs/Systemvariablen.png)
 
 ---
 
